@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Reza Fachrizal</h1>
 <h3 align="center">A passionate Spatial Data Analysis from Indonesia</h3>
 
-- 📝 I regularly write articles on [rfachrizal.medium.com](rfachrizal.medium.com)
+- 📝 I regularly write articles on [medium](https://rfachrizal.medium.com/)
+
+- 💬 Ask me about **Spatial and Stock Analysis**
 
 - 📫 How to reach me **rfachrizal@hotmail.com**
 
+- ⚡ Fun fact **ISTP**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/xxfachrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xxfachrizal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rfachrizal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rfachrizal/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550052845991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550052845991" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/fachrezal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fachrezal/" height="30" width="40" /></a>
+<a href="https://medium.com/@rfachrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rfachrizal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
