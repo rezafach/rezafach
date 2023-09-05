@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza Fachrizal</h1>
 <h3 align="center">A passionate Spatial Data Analysis from Indonesia</h3>
 
-- 📝 I regularly write articles on [medium](https://rfachrizal.medium.com/)
+- 📝 I regularly write articles on [https://rfachrizal.medium.com/](medium)
 
 - 💬 Ask me about **Spatial and Stock Analysis**
 
