@@ -1,7 +1,7 @@
 Hi 👋, I'm Reza Fachrizal
 A passionate Spatial Data Analysis from Indonesia
 
-- 📝 I regularly write articles on <a href="https://medium.com/@rfachrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rfachrizal" height="20" width="20" /></a> **edium**
+- 📝 I regularly write articles on <a href="https://medium.com/@rfachrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rfachrizal" height="20" width="20" /></a>
 - 💬 Ask me about **Spatial and Stock Analysis**
 - 📫 How to reach me **rfachrizal@hotmail.com**
 - ⚡ Fun fact: **ISTP**
