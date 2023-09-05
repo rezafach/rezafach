@@ -1,7 +1,7 @@
 Hi 👋, I'm Reza Fachrizal
 A passionate Spatial Data Analysis from Indonesia
 
-- 📝 I regularly write articles on **Medium**
+- 📝 I regularly write articles on <a href="https://medium.com/@rfachrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rfachrizal" height="20" width="20" /></a> **edium**
 - 💬 Ask me about **Spatial and Stock Analysis**
 - 📫 How to reach me **rfachrizal@hotmail.com**
 - ⚡ Fun fact: **ISTP**
@@ -12,7 +12,6 @@ Connect with me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rfachrizal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rfachrizal/" height="20" width="20" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61550052845991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550052845991" height="20" width="20" /></a>
 <a href="https://instagram.com/https://www.instagram.com/fachrezal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fachrezal/" height="20" width="20" /></a>
-<a href="https://medium.com/@rfachrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rfachrizal" height="20" width="20" /></a>
 </p>
 
 Languages and Tools:
