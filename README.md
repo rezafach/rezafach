@@ -27,8 +27,7 @@ I'm a passionate Spatial Data Analyst from Indonesia with a deep love for data, 
 - ArcGIS 🌏
 
 ## Latest Article on Medium
-[![Medium](https://img.shields.io/badge/Latest%20Article%20on%20Medium-blue)]([https://medium.com/your-username/your-article-url](https://medium.com/@rfachrizal/importing-csv-data-into-postgresql-using-python-aee6b5b11816))
-[![Medium](https://img.shields.io/badge/Latest%20Article%20on%20Medium-blue)](https://medium.com/@rfachrizal/accessibility-analysis-mapping-the-proximity-of-hospitals-in-jakarta-using-qneat3-and-python-4463918fcbf9)))
-
+[Medium]([https://medium.com/your-username/your-article-url](https://medium.com/@rfachrizal/importing-csv-data-into-postgresql-using-python-aee6b5b11816))
+[Medium](https://medium.com/@rfachrizal/accessibility-analysis-mapping-the-proximity-of-hospitals-in-jakarta-using-qneat3-and-python-4463918fcbf9)
 
 Feel free to connect with me on my social media profiles or reach out if you share any of my interests or would like to collaborate on exciting projects!
