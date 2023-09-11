@@ -7,7 +7,7 @@ I'm a passionate Spatial Data Analyst from Indonesia with a deep love for data, 
 [![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/profile.php?id=61550052845991)
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/fachrezal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/rfachrizal/)
-📫 [Email] **rfachrizal@hotmail.com**
+[![Email](https://img.shields.io/badge/Email-%20your.email@example.com-%23D14836?style=flat&logo=gmail&logoColor=white)](rfachrizal@hotmail.com)
 
 ## Expertise
 - Data Visualization 📊
