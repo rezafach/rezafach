@@ -2,9 +2,9 @@
 
 I'm a passionate Spatial Data Analyst from Indonesia with a deep love for data, AI, ML, maps, public transport, stock markets, and stickers! 🪅
 
-Expertise: Data Visualization 📊, Data Analytics 🔍, Geographic Information Systems (GIS) 🗺️
-Languages: Python 🐍, SQL
-Tools: PostgreSQL 🐘, Jupyter Notebooks (ipynb) 📓, AutoCAD 🏗️, Surpac ⛏️, QGIS 🌍, ArcGIS 🌏
+- Expertise: Data Visualization 📊, Data Analytics 🔍, Geographic Information Systems (GIS) 🗺️
+- Languages: Python 🐍, SQL
+- Tools: PostgreSQL 🐘, Jupyter Notebooks (ipynb) 📓, AutoCAD 🏗️, Surpac ⛏️, QGIS 🌍, ArcGIS 🌏
 
 ### Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/xxfachrizal)
