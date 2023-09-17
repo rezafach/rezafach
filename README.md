@@ -7,7 +7,7 @@ I'm a passionate Spatial Data Analyst from Indonesia with a deep love for data, 
 - Tools: PostgreSQL 🐘, Jupyter Notebooks (ipynb) 📓, AutoCAD 🏗️, Surpac ⛏️, QGIS 🌍, ArcGIS 🌏
 
 ### Connect with Me
-[![Twitter](https://img.shields.io/twitter/follow/xxfachrizal?style=social)](https://twitter.com/xxfachrizal)
+[![Twitter](https://img.shields.io/twitter/follow/rrrrfachrizal?style=social)](https://twitter.com/rrrrfachrizal)
 [![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/profile.php?id=61550052845991)
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/fachrezal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/rfachrizal/)
