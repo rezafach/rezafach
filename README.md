@@ -15,7 +15,7 @@ I'm a passionate Spatial Data Analyst from Indonesia with a deep love for data, 
 
 ### Latest Article on Medium
 - [How to Read SQL Queries in a Jupyter Notebook 📚](https://medium.com/@rfachrizal/how-to-read-sql-queries-in-a-jupyter-notebook-4b5eb2cd420a)
-- [Importing CSV Data 📄 into PostgreSQL 🐘 Using Python 🐍](https://medium.com/@rfachrizal/importing-csv-data-into-postgresql-using-python-aee6b5b11816))
+- [Importing CSV Data 📄 into PostgreSQL 🐘 Using Python 🐍](https://medium.com/@rfachrizal/importing-csv-data-into-postgresql-using-python-aee6b5b11816)
 - [Accessibility Analysis🛣️: Mapping the Proximity of Hospitals 🏥 in Jakarta Using H3 Spatial Indexing System 🌐](https://medium.com/@rfachrizal/accessibility-analysis-mapping-the-proximity-of-hospitals-in-jakarta-using-qneat3-and-python-4463918fcbf9)
 
 Feel free to connect with me on my social media profiles or reach out if you share any of my interests or would like to collaborate on exciting projects!
